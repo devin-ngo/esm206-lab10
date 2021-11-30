@@ -46,7 +46,3 @@ praise("Holy ${creating}, Batman - this code is ${ADJECTIVE}!")
 
 Use cowsay::say() to make a character say something to you 
 
-```{r}
-
-```
-
